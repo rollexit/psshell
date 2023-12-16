@@ -1,0 +1,2 @@
+# psshell
+powershell scrip
